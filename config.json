@@ -1,0 +1,14 @@
+{
+  "interval_minutes": 20,
+  "posts_per_run": 1,
+  "order": "shuffle",
+  "timezone": "Europe/Moscow",
+  "telegram_channel_id": "@@stage_style_media",
+  "default_tags": [
+    "telegram",
+    "shorts",
+    "videos"
+  ],
+  "add_hashtag_shorts": true,
+  "strip_leading_number": false
+}
